@@ -1,5 +1,3 @@
-## Hi there 👋
-
 **Welcome to One Buffalo Labs!**
 
 **Powering the Future of the 716: Web, App, & AI Solutions.**
