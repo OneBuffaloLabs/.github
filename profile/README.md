@@ -4,12 +4,6 @@
 
 **Powering the Future of the 716: Web, App, & AI Solutions.**
 
-[![One Buffalo Labs Website](https://img.shields.io/badge/Visit_Our_Website-onebuffalolabs.com-blue?style=for-the-badge&logo=vercel)](https://onebuffalolabs.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/one-buffalo-labs)
-[![Instagram](https://img.shields.io/badge/Follow_on_Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/onebuffalolabs/)
-[![Twitter/X](https://img.shields.io/badge/Follow_on_X-black?style=for-the-badge&logo=x)](http://onebuffalolabs.com/) <!-- Using the website as the X link for now -->
-[![Facebook](https://img.shields.io/badge/Find_us_on_Facebook-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=61578291081644)
-
 ---
 
 ### 🙋‍♀️ A short introduction - what is your organization all about?
@@ -81,8 +75,6 @@ Ready to transform your digital presence? Let's build something great together!
 -   **Website:** [onebuffalolabs.com](https://onebuffalolabs.com)
 -   **Email:** [onebuffalolabs@gmail.com](mailto:onebuffalolabs@gmail.com)
 -   **Location:** Buffalo, NY
--   **Twitter/X:** [onebuffalolabs.com](http://onebuffalolabs.com/)
--   **Facebook:** [One Buffalo Labs on Facebook](https://www.facebook.com/profile.php?id=61578291081644)
 
 ---
 
